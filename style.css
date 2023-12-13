@@ -1,0 +1,14 @@
+#game{
+    position: relative;
+    bottom: -50px;
+    text-align: center;
+}
+
+#window{
+    border: 3px solid;
+}
+#score{
+    position: relative;
+    bottom: 40px;
+    font-size: 50px;
+}
